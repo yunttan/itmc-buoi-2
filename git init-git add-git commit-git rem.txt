@@ -1,0 +1,2 @@
+git init->git add->git commit->git remote-> git push
+git add . ->git commit->git push
